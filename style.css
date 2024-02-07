@@ -1,0 +1,42 @@
+
+
+.abc{
+    margin-left: 10px;
+    
+}
+
+.panel-heading {
+    background-color: #28a745;
+    color: #ffffff;
+    text-align: center;
+    
+}
+
+.panel-body {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+button.btn-success {
+    background-color: #28a745;
+    border: 1px solid #28a745;
+}
+
+button.btn-success:hover {
+    background-color: #218838;
+    border: 1px solid #218838;
+}
+
+hr {
+    border-top: 1px solid #d3d3d3
+}
+
+ 
